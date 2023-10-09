@@ -783,14 +783,14 @@
         {
             "MotorName": "53P104A-M01",
             "Voltage": "380",
-            "Power": "55",
-            "Current": "98"
+            "Power": "75",
+            "Current": "135"
         },
         {
             "MotorName": "53P104B-M01",
             "Voltage": "380",
-            "Power": "55",
-            "Current": "98"
+            "Power": "75",
+            "Current": "135"
         },
         {
             "MotorName": "53P105A-M01",
