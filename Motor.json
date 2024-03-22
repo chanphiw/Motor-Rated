@@ -1,3979 +1,3988 @@
 {
-    "Motorlist": [
-        {
-            "MotorName": "51E006A-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "51E006B-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "51E006C-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "51E006D-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "51E006A-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "51E006B-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "51E006C-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "51E006D-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "51E013-K01A-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "13.2"
-        },
-        {
-            "MotorName": "51E013-K01B-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "13.2"
-        },
-        {
-            "MotorName": "51K001-M01",
-            "Voltage": "6000",
-            "Power": "500",
-            "Current": "60"
-        },
-        {
-            "MotorName": "51K001-P01-M01",
-            "Voltage": "380",
-            "Power": "3.7",
-            "Current": "7.4"
-        },
-        {
-            "MotorName": "51K001-P02-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "74"
-        },
-        {
-            "MotorName": "51K002-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "24"
-        },
-        {
-            "MotorName": "51K002-P01-M01",
-            "Voltage": "380",
-            "Power": "3.7",
-            "Current": "7.4"
-        },
-        {
-            "MotorName": "51K002-P02-M01",
-            "Voltage": "380",
-            "Power": "3.7",
-            "Current": "7.4"
-        },
-        {
-            "MotorName": "51K003-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "3.1"
-        },
-        {
-            "MotorName": "51K004A-M01",
-            "Voltage": "11000",
-            "Power": "1550",
-            "Current": "116"
-        },
-        {
-            "MotorName": "51K004B-M01",
-            "Voltage": "11000",
-            "Power": "1550",
-            "Current": "116"
-        },
-        {
-            "MotorName": "51K004A-P02-M01",
-            "Voltage": "380",
-            "Power": "3.6",
-            "Current": "7.9"
-        },
-        {
-            "MotorName": "51K004A-Z01-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "6"
-        },
-        {
-            "MotorName": "51K004B-P02-M01",
-            "Voltage": "380",
-            "Power": "3.6",
-            "Current": "7.9"
-        },
-        {
-            "MotorName": "51K004B-Z01-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "6"
-        },
-        {
-            "MotorName": "51K005-M01",
-            "Voltage": "6000",
-            "Power": "500",
-            "Current": "63"
-        },
-        {
-            "MotorName": "51K005-P01-M01",
-            "Voltage": "380",
-            "Power": "2.6",
-            "Current": "6.8"
-        },
-        {
-            "MotorName": "51K005-P02-M01",
-            "Voltage": "380",
-            "Power": "2.6",
-            "Current": "6.8"
-        },
-        {
-            "MotorName": "51P001A-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "160"
-        },
-        {
-            "MotorName": "51P001B-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "160"
-        },
-        {
-            "MotorName": "51P002A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "51P002B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "51P003A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "51P003B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "51X003-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "51X003-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "51X003-P02A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "51X003-P02B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "51X004-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "51X004-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "52B001-K01-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "67.7"
-        },
-        {
-            "MotorName": "52B001-K02-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "87.1"
-        },
-        {
-            "MotorName": "52E004A-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "52E004B-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "52E004C-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "52E004D-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "52E004A-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "52E004B-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "52E004C-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "52E004D-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "52E005-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.1"
-        },
-        {
-            "MotorName": "52E005-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "38.1"
-        },
-        {
-            "MotorName": "52E007A-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "52E007A-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "52E007B-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "52E007B-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "52E009-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "52E009-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "52E011A-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.8"
-        },
-        {
-            "MotorName": "52E011B-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.8"
-        },
-        {
-            "MotorName": "52E011C-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.8"
-        },
-        {
-            "MotorName": "52E011A-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "56.8"
-        },
-        {
-            "MotorName": "52E011B-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "56.8"
-        },
-        {
-            "MotorName": "52E011C-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "56.8"
-        },
-        {
-            "MotorName": "52E102-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.1"
-        },
-        {
-            "MotorName": "52E102-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "38.1"
-        },
-        {
-            "MotorName": "52E103-K01A-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "58.3"
-        },
-        {
-            "MotorName": "52E103-K01B-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "52K001-P01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43"
-        },
-        {
-            "MotorName": "52K001-P01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43"
-        },
-        {
-            "MotorName": "52K001-P01C-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "7.9"
-        },
-        {
-            "MotorName": "52K002A-M01",
-            "Voltage": "11000",
-            "Power": "2950",
-            "Current": "193"
-        },
-        {
-            "MotorName": "52K002B-M01",
-            "Voltage": "11000",
-            "Power": "2950",
-            "Current": "193"
-        },
-        {
-            "MotorName": "52K002A-P02-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "16.8"
-        },
-        {
-            "MotorName": "52K002B-P02-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "16.8"
-        },
-        {
-            "MotorName": "52K101-M01",
-            "Voltage": "6000",
-            "Power": "370",
-            "Current": "61"
-        },
-        {
-            "MotorName": "52K101-P01-M01",
-            "Voltage": "380",
-            "Power": "3.7",
-            "Current": "8.7"
-        },
-        {
-            "MotorName": "52K101-P02-M01",
-            "Voltage": "380",
-            "Power": "3.7",
-            "Current": "8.7"
-        },
-        {
-            "MotorName": "52P001A-M01",
-            "Voltage": "11000",
-            "Power": "2200",
-            "Current": "130"
-        },
-        {
-            "MotorName": "52P001B-M01",
-            "Voltage": "11000",
-            "Power": "2200",
-            "Current": "130"
-        },
-        {
-            "MotorName": "52P001A-P02-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "52P001B-P02-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "52P002A-M01",
-            "Voltage": "11000",
-            "Power": "780",
-            "Current": "50"
-        },
-        {
-            "MotorName": "52P002B-M01",
-            "Voltage": "11000",
-            "Power": "780",
-            "Current": "50"
-        },
-        {
-            "MotorName": "52P003A-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "250"
-        },
-        {
-            "MotorName": "52P003B-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "250"
-        },
-        {
-            "MotorName": "52P004A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "37.3"
-        },
-        {
-            "MotorName": "52P004B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "37.3"
-        },
-        {
-            "MotorName": "52P005A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "-"
-        },
-        {
-            "MotorName": "52P005B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "-"
-        },
-        {
-            "MotorName": "52P006A-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "56.8"
-        },
-        {
-            "MotorName": "52P006B-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "56.8"
-        },
-        {
-            "MotorName": "52P007A-M01",
-            "Voltage": "11000",
-            "Power": "1150",
-            "Current": "70"
-        },
-        {
-            "MotorName": "52P007B-M01",
-            "Voltage": "11000",
-            "Power": "1150",
-            "Current": "70"
-        },
-        {
-            "MotorName": "52P009A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "52P009B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "52P010A-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "7.9"
-        },
-        {
-            "MotorName": "52P010B-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "7.9"
-        },
-        {
-            "MotorName": "52P101-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "238"
-        },
-        {
-            "MotorName": "52P102-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "52P103-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "-"
-        },
-        {
-            "MotorName": "52P104A-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "55"
-        },
-        {
-            "MotorName": "52P104B-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "55"
-        },
-        {
-            "MotorName": "52X003-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "1.16"
-        },
-        {
-            "MotorName": "52X003-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "1.16"
-        },
-        {
-            "MotorName": "52X003-P02A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "52X003-P02B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "52P007A-P01-M01",
-            "Voltage": "380",
-            "Power": "2.1",
-            "Current": "5.1"
-        },
-        {
-            "MotorName": "52P007A-P02-M01",
-            "Voltage": "380",
-            "Power": "2.1",
-            "Current": "5.1"
-        },
-        {
-            "MotorName": "52P007B-P01-M01",
-            "Voltage": "380",
-            "Power": "2.1",
-            "Current": "5.1"
-        },
-        {
-            "MotorName": "52P007B-P02-M01",
-            "Voltage": "380",
-            "Power": "2.1",
-            "Current": "5.1"
-        },
-        {
-            "MotorName": "52K002A-Z01-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.75"
-        },
-        {
-            "MotorName": "52K002A-Z02-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.75"
-        },
-        {
-            "MotorName": "52K001-Z01-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.3"
-        },
-        {
-            "MotorName": "52K002B-Z01-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.75"
-        },
-        {
-            "MotorName": "52K002B-Z02-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.75"
-        },
-        {
-            "MotorName": "52K101-Z01-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.75"
-        },
-        {
-            "MotorName": "53E117A-K01A-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "58.3"
-        },
-        {
-            "MotorName": "53E117A-K01B-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "53E131-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "53E131-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "53E133-K01A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "16.2"
-        },
-        {
-            "MotorName": "53E133-K01B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "21.9"
-        },
-        {
-            "MotorName": "53K101-P01-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "101"
-        },
-        {
-            "MotorName": "53K101-P02-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "101"
-        },
-        {
-            "MotorName": "53K101-P03-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "25.5"
-        },
-        {
-            "MotorName": "53P101A-M01",
-            "Voltage": "6000",
-            "Power": "250",
-            "Current": "28"
-        },
-        {
-            "MotorName": "53P101B-M01",
-            "Voltage": "6000",
-            "Power": "250",
-            "Current": "28"
-        },
-        {
-            "MotorName": "53P102B-M01",
-            "Voltage": "6000",
-            "Power": "330",
-            "Current": "37"
-        },
-        {
-            "MotorName": "53P102C-M01",
-            "Voltage": "6000",
-            "Power": "330",
-            "Current": "37"
-        },
-        {
-            "MotorName": "53P103A-M01",
-            "Voltage": "6000",
-            "Power": "300",
-            "Current": "36"
-        },
-        {
-            "MotorName": "53P103B-M01",
-            "Voltage": "6000",
-            "Power": "300",
-            "Current": "36"
-        },
-        {
-            "MotorName": "53P104A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "53P104B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "53P105A-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "25"
-        },
-        {
-            "MotorName": "53P105B-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "25"
-        },
-        {
-            "MotorName": "53P106A-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "237"
-        },
-        {
-            "MotorName": "53P106B-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "237"
-        },
-        {
-            "MotorName": "53P108A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "53P108B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "53P109A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53P109B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53P110A-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11"
-        },
-        {
-            "MotorName": "53P110B-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11"
-        },
-        {
-            "MotorName": "53P111-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "137"
-        },
-        {
-            "MotorName": "53P112A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "41"
-        },
-        {
-            "MotorName": "53P112B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "41"
-        },
-        {
-            "MotorName": "53P113-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "53P114A-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "97"
-        },
-        {
-            "MotorName": "53P114B-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "97"
-        },
-        {
-            "MotorName": "53P115A-M01",
-            "Voltage": "380",
-            "Power": "150",
-            "Current": "274"
-        },
-        {
-            "MotorName": "53P115B-M01",
-            "Voltage": "380",
-            "Power": "150",
-            "Current": "274"
-        },
-        {
-            "MotorName": "53P116A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "53P116B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "53P117A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "87"
-        },
-        {
-            "MotorName": "53P117B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "87"
-        },
-        {
-            "MotorName": "53P118A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "53P118B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "53P119A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "53P119B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "53P120A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "202"
-        },
-        {
-            "MotorName": "53P120B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "202"
-        },
-        {
-            "MotorName": "53P121A-M01",
-            "Voltage": "6000",
-            "Power": "270",
-            "Current": "30"
-        },
-        {
-            "MotorName": "53P121B-M01",
-            "Voltage": "6000",
-            "Power": "270",
-            "Current": "30"
-        },
-        {
-            "MotorName": "53P122A-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "247"
-        },
-        {
-            "MotorName": "53P122B-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "247"
-        },
-        {
-            "MotorName": "53P123A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "196"
-        },
-        {
-            "MotorName": "53P123B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "196"
-        },
-        {
-            "MotorName": "53P124A-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "97.3"
-        },
-        {
-            "MotorName": "53P124B-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "97.3"
-        },
-        {
-            "MotorName": "53P126A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "67"
-        },
-        {
-            "MotorName": "53P126B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "67"
-        },
-        {
-            "MotorName": "53P127A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40.5"
-        },
-        {
-            "MotorName": "53P127B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40.5"
-        },
-        {
-            "MotorName": "53P128A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "53P128B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "53P129A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.33"
-        },
-        {
-            "MotorName": "53P129B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.33"
-        },
-        {
-            "MotorName": "53P130A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53P130B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53P131A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "53P131B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "53P132A-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "98"
-        },
-        {
-            "MotorName": "53P132B-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "98"
-        },
-        {
-            "MotorName": "53P133A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53P133B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53P134A-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "97"
-        },
-        {
-            "MotorName": "53P134B-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "97"
-        },
-        {
-            "MotorName": "53P138A-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "160"
-        },
-        {
-            "MotorName": "53P138B-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "160"
-        },
-        {
-            "MotorName": "53P139A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53P139B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "53Q001-P01-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q001-P02-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q001-P03-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.9"
-        },
-        {
-            "MotorName": "53Q002-P01-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q002-P02-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q002-P03-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.9"
-        },
-        {
-            "MotorName": "53Q003-P01-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q003-P02-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q003-P03-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.9"
-        },
-        {
-            "MotorName": "53Q004-P01-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q004-P02-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "53Q004-P03-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.9"
-        },
-        {
-            "MotorName": "53K001-K02-M01",
-            "Voltage": "380",
-            "Power": "1.5",
-            "Current": "3.1"
-        },
-        {
-            "MotorName": "53K001-M01",
-            "Voltage": "11000",
-            "Power": "12900",
-            "Current": "763"
-        },
-        {
-            "MotorName": "53K002-M01",
-            "Voltage": "11000",
-            "Power": "2800",
-            "Current": "172"
-        },
-        {
-            "MotorName": "53K001-P01-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.5"
-        },
-        {
-            "MotorName": "53K001-P02-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.5"
-        },
-        {
-            "MotorName": "53K001-P03-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.5"
-        },
-        {
-            "MotorName": "53K001-Z02-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.3"
-        },
-        {
-            "MotorName": "53P136-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "53X002-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "67.3"
-        },
-        {
-            "MotorName": "53X002-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "67.3"
-        },
-        {
-            "MotorName": "53X002-K02A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "134"
-        },
-        {
-            "MotorName": "53X002-K02B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "134"
-        },
-        {
-            "MotorName": "53X002-K02-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K03-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K04-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K05-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K06-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K07-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K08-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K09-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K10-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K11-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K12-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K13-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K14-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K15-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K16-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K17-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K18-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K19-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K20-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K21-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K22-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K23-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K24-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K25-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K26-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K27-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K28-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K29-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K30-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K31-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K32-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K33-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K34-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K35-M01",
-            "Voltage": "400",
-            "Power": "0.75",
-            "Current": "3.38"
-        },
-        {
-            "MotorName": "53X002-K36-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K37-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "53X002-K38-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K39-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K40-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K41-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K42-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K43-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K44-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K45-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K46-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K47-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K48-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K49-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K50-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K51-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K52-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K53-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K54-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X002-K55-M01",
-            "Voltage": "380",
-            "Power": "0.52",
-            "Current": "1.36"
-        },
-        {
-            "MotorName": "53X003-K01-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40"
-        },
-        {
-            "MotorName": "53X003-K02-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40"
-        },
-        {
-            "MotorName": "53X003-X01-M01",
-            "Voltage": "380",
-            "Power": "0.2",
-            "Current": "0.5"
-        },
-        {
-            "MotorName": "53X003-X02-M01",
-            "Voltage": "380",
-            "Power": "0.2",
-            "Current": "0.5"
-        },
-        {
-            "MotorName": "53X003-X03-M01",
-            "Voltage": "380",
-            "Power": "0.2",
-            "Current": "0.5"
-        },
-        {
-            "MotorName": "53X003-X04-M01",
-            "Voltage": "380",
-            "Power": "0.2",
-            "Current": "0.5"
-        },
-        {
-            "MotorName": "53X003-X05-M01",
-            "Voltage": "380",
-            "Power": "0.2",
-            "Current": "0.5"
-        },
-        {
-            "MotorName": "53X003-X06-M01",
-            "Voltage": "380",
-            "Power": "0.2",
-            "Current": "0.5"
-        },
-        {
-            "MotorName": "53X002-P01A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "134"
-        },
-        {
-            "MotorName": "53X002-P01B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "134"
-        },
-        {
-            "MotorName": "53X106-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "53X106-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "53K101-PUR-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "6.3"
-        },
-        {
-            "MotorName": "54E005A-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "54E005A-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "54E005B-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "54E005B-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "54E007-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.1"
-        },
-        {
-            "MotorName": "54E007-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.1"
-        },
-        {
-            "MotorName": "54E010A-K01A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "87"
-        },
-        {
-            "MotorName": "54E010A-K01B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "87"
-        },
-        {
-            "MotorName": "54E010B-K01A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "87"
-        },
-        {
-            "MotorName": "54E010B-K01B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "87"
-        },
-        {
-            "MotorName": "54E012-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43.8"
-        },
-        {
-            "MotorName": "54E012-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43.8"
-        },
-        {
-            "MotorName": "54K001A-P02-M01",
-            "Voltage": "380",
-            "Power": "3.7",
-            "Current": "8.7"
-        },
-        {
-            "MotorName": "54K001B-P02-M01",
-            "Voltage": "380",
-            "Power": "3.7",
-            "Current": "8.7"
-        },
-        {
-            "MotorName": "54K001A-Z01-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.75"
-        },
-        {
-            "MotorName": "54K001B-Z01-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.75"
-        },
-        {
-            "MotorName": "54P001A-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "22"
-        },
-        {
-            "MotorName": "54P001B-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "22"
-        },
-        {
-            "MotorName": "54P002A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "67"
-        },
-        {
-            "MotorName": "54P002B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "67"
-        },
-        {
-            "MotorName": "54P003A-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "10.7"
-        },
-        {
-            "MotorName": "54P003B-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "10.7"
-        },
-        {
-            "MotorName": "54P004A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "54P004B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "54P005A-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "101"
-        },
-        {
-            "MotorName": "54P005B-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "101"
-        },
-        {
-            "MotorName": "54P006A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "82.9"
-        },
-        {
-            "MotorName": "54P006B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "82.9"
-        },
-        {
-            "MotorName": "54P007A-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "237"
-        },
-        {
-            "MotorName": "54P007B-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "237"
-        },
-        {
-            "MotorName": "54K001A-M01",
-            "Voltage": "6000",
-            "Power": "540",
-            "Current": "82"
-        },
-        {
-            "MotorName": "54K001B-M01",
-            "Voltage": "6000",
-            "Power": "540",
-            "Current": "82"
-        },
-        {
-            "MotorName": "55E004-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.1"
-        },
-        {
-            "MotorName": "55E004-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "38.1"
-        },
-        {
-            "MotorName": "55E007-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "55E007-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "43.7"
-        },
-        {
-            "MotorName": "55E103-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43.8"
-        },
-        {
-            "MotorName": "55E103-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43.8"
-        },
-        {
-            "MotorName": "55E104-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43.8"
-        },
-        {
-            "MotorName": "55E104-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "43.8"
-        },
-        {
-            "MotorName": "55E105A-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "55E105B-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "55E105C-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "55E105D-K01A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "55E105A-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "55E105B-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "55E105C-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "55E105D-K01B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "83"
-        },
-        {
-            "MotorName": "55E110-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.1"
-        },
-        {
-            "MotorName": "55E110-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.1"
-        },
-        {
-            "MotorName": "55P001A-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "238"
-        },
-        {
-            "MotorName": "55P001B-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "238"
-        },
-        {
-            "MotorName": "55P002A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "55P002B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "55P003A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "55P003B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "55P101A-M01",
-            "Voltage": "6000",
-            "Power": "485",
-            "Current": "53"
-        },
-        {
-            "MotorName": "55P101B-M01",
-            "Voltage": "6000",
-            "Power": "485",
-            "Current": "53"
-        },
-        {
-            "MotorName": "55P102A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "69"
-        },
-        {
-            "MotorName": "55P102B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "69"
-        },
-        {
-            "MotorName": "55P103A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "33.5"
-        },
-        {
-            "MotorName": "55P103B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "33.5"
-        },
-        {
-            "MotorName": "55P104A-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "160"
-        },
-        {
-            "MotorName": "55P104B-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "160"
-        },
-        {
-            "MotorName": "55X101-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "55X101-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "56P001A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "56P001B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "56P002A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "56P002B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "56P003A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "51.8"
-        },
-        {
-            "MotorName": "56P003B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "51.8"
-        },
-        {
-            "MotorName": "56P004A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "56P004B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "56P005A-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "7.9"
-        },
-        {
-            "MotorName": "56P005B-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "7.9"
-        },
-        {
-            "MotorName": "56P006A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "56P006B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "56P007A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "56P007B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "56P008A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "56P008B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "56P009A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "56P009B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "57K001-M01",
-            "Voltage": "6000",
-            "Power": "225",
-            "Current": "25"
-        },
-        {
-            "MotorName": "57K002-M01",
-            "Voltage": "6000",
-            "Power": "225",
-            "Current": "25"
-        },
-        {
-            "MotorName": "57P001A-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "25"
-        },
-        {
-            "MotorName": "57P001B-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "25"
-        },
-        {
-            "MotorName": "57P001C-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "25"
-        },
-        {
-            "MotorName": "57P002A-M01",
-            "Voltage": "6000",
-            "Power": "250",
-            "Current": "30"
-        },
-        {
-            "MotorName": "57P002B-M01",
-            "Voltage": "6000",
-            "Power": "250",
-            "Current": "30"
-        },
-        {
-            "MotorName": "57P002C-M01",
-            "Voltage": "6000",
-            "Power": "250",
-            "Current": "30"
-        },
-        {
-            "MotorName": "57P003A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "34.2"
-        },
-        {
-            "MotorName": "57P003B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "34.2"
-        },
-        {
-            "MotorName": "57P004A-M01",
-            "Voltage": "6000",
-            "Power": "250",
-            "Current": "30"
-        },
-        {
-            "MotorName": "57P004B-M01",
-            "Voltage": "6000",
-            "Power": "250",
-            "Current": "30"
-        },
-        {
-            "MotorName": "57K001-P02-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "7.7"
-        },
-        {
-            "MotorName": "57K002-P02-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "7.7"
-        },
-        {
-            "MotorName": "57X002-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "57X002-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "57X002-P02A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "57X002-P02B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "57X002-P03A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "57X002-P03B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "58K001-M01",
-            "Voltage": "6000",
-            "Power": "1600",
-            "Current": "180"
-        },
-        {
-            "MotorName": "58K001-P01-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21.5"
-        },
-        {
-            "MotorName": "58K001-P02-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21.5"
-        },
-        {
-            "MotorName": "58K401-M01",
-            "Voltage": "6000",
-            "Power": "2000",
-            "Current": "222"
-        },
-        {
-            "MotorName": "58K401-P01-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21.5"
-        },
-        {
-            "MotorName": "58K401-P02-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21.5"
-        },
-        {
-            "MotorName": "58K501-M01",
-            "Voltage": "6000",
-            "Power": "2600",
-            "Current": "294"
-        },
-        {
-            "MotorName": "58K501-P01-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21.5"
-        },
-        {
-            "MotorName": "58K501-P02-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21.5"
-        },
-        {
-            "MotorName": "58P001A-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "18.9"
-        },
-        {
-            "MotorName": "58P001B-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "18.9"
-        },
-        {
-            "MotorName": "58P002A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P002B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P004A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P004B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P006A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P006B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P201A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P201B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "58P401A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "58P401B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "58X001-P01A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "15.4"
-        },
-        {
-            "MotorName": "58X001-P01B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "15.4"
-        },
-        {
-            "MotorName": "58X003-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "58X003-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.81"
-        },
-        {
-            "MotorName": "70E003A-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "70E003B-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "70E003C-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "70E003D-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "70E003A-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "70E003B-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "70E003C-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "70E003D-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "70E004A-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "70E004A-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "70E004B-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "70E004B-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "70P001-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "7.8"
-        },
-        {
-            "MotorName": "70P002A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44"
-        },
-        {
-            "MotorName": "70P002B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44"
-        },
-        {
-            "MotorName": "70P003A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "70P003B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "70P004A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "70P004B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "70P006A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "70P006B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "70P007A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "70P007B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "70P009-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "70P010-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "13.9"
-        },
-        {
-            "MotorName": "71E003A-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "71E003B-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "71E003A-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "38.1"
-        },
-        {
-            "MotorName": "71E003B-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "38.1"
-        },
-        {
-            "MotorName": "71E004A-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "71E004B-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "71E004C-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "71E004D-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "71E004A-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "71E004B-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "71E004C-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "71E004D-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.7"
-        },
-        {
-            "MotorName": "71P001A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "71P001B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "143"
-        },
-        {
-            "MotorName": "71P002A-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "58.3"
-        },
-        {
-            "MotorName": "71P002B-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "58.3"
-        },
-        {
-            "MotorName": "71P003A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "71P003B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "71P004A-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "23"
-        },
-        {
-            "MotorName": "71P004B-M01",
-            "Voltage": "6000",
-            "Power": "200",
-            "Current": "23"
-        },
-        {
-            "MotorName": "71P005-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "34.2"
-        },
-        {
-            "MotorName": "71P007A-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "54"
-        },
-        {
-            "MotorName": "71P007B-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "54"
-        },
-        {
-            "MotorName": "71TN001-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "4.6"
-        },
-        {
-            "MotorName": "71X001-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "71X001-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "72K101-M01",
-            "Voltage": "6000",
-            "Power": "230",
-            "Current": "26"
-        },
-        {
-            "MotorName": "72K101-K01-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72K101-P02-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72K201-M01",
-            "Voltage": "6000",
-            "Power": "230",
-            "Current": "26"
-        },
-        {
-            "MotorName": "72K201-K01-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72K201-P02-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72K301-M01",
-            "Voltage": "6000",
-            "Power": "230",
-            "Current": "26"
-        },
-        {
-            "MotorName": "72K301-K01-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72K301-P02-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72K601-M01",
-            "Voltage": "6000",
-            "Power": "230",
-            "Current": "26"
-        },
-        {
-            "MotorName": "72K601-K01-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72K601-P02-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.5"
-        },
-        {
-            "MotorName": "72X601-TN01-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "1.16"
-        },
-        {
-            "MotorName": "72P601A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "72P601B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "21"
-        },
-        {
-            "MotorName": "72P602A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "72P602B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "72P603A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29"
-        },
-        {
-            "MotorName": "72P603B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29"
-        },
-        {
-            "MotorName": "72P604A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.5"
-        },
-        {
-            "MotorName": "72P604B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "42.5"
-        },
-        {
-            "MotorName": "72X601-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "1.16"
-        },
-        {
-            "MotorName": "72X601-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "1.16"
-        },
-        {
-            "MotorName": "72X602-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "72X602-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "72X603-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "72X603-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "73E402A-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73E402B-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73E402C-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73E402A-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73E402B-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73E402C-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73E503A-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73E503B-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "73K401-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "237"
-        },
-        {
-            "MotorName": "73K401-K01-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "73K401-K02-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.95"
-        },
-        {
-            "MotorName": "73K402A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "73K402B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "73P401A-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "98"
-        },
-        {
-            "MotorName": "73P401B-M01",
-            "Voltage": "380",
-            "Power": "55",
-            "Current": "98"
-        },
-        {
-            "MotorName": "73P402A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40.5"
-        },
-        {
-            "MotorName": "73P402B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40.5"
-        },
-        {
-            "MotorName": "73P501A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "34.2"
-        },
-        {
-            "MotorName": "73P501B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "34.2"
-        },
-        {
-            "MotorName": "73P502A-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "10.5"
-        },
-        {
-            "MotorName": "73P502B-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "10.5"
-        },
-        {
-            "MotorName": "73P503A-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "5.9"
-        },
-        {
-            "MotorName": "73P503B-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "5.9"
-        },
-        {
-            "MotorName": "73P504-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "13.9"
-        },
-        {
-            "MotorName": "74E002A-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E002B-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E002C-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E002D-K01A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E002A-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E002B-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E002C-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E002D-K01B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "44.1"
-        },
-        {
-            "MotorName": "74E004A-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "74E004B-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "74E004C-K01A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "74E004A-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "74E004B-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "74E004C-K01B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "37.5"
-        },
-        {
-            "MotorName": "74P001A-M01",
-            "Voltage": "11000",
-            "Power": "1100",
-            "Current": "69"
-        },
-        {
-            "MotorName": "74P001B-M01",
-            "Voltage": "11000",
-            "Power": "1100",
-            "Current": "69"
-        },
-        {
-            "MotorName": "74P001A-P02-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "4.65"
-        },
-        {
-            "MotorName": "74P001B-P02-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "4.65"
-        },
-        {
-            "MotorName": "74P002A-M01",
-            "Voltage": "380",
-            "Power": "100",
-            "Current": "186"
-        },
-        {
-            "MotorName": "74P002B-M01",
-            "Voltage": "380",
-            "Power": "100",
-            "Current": "186"
-        },
-        {
-            "MotorName": "74P002-M01",
-            "Voltage": "380",
-            "Power": "38",
-            "Current": "66.4"
-        },
-        {
-            "MotorName": "74P003A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "136"
-        },
-        {
-            "MotorName": "74P003B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "136"
-        },
-        {
-            "MotorName": "74P003-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "136"
-        },
-        {
-            "MotorName": "74P004A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "198"
-        },
-        {
-            "MotorName": "74P004B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "198"
-        },
-        {
-            "MotorName": "74P004-M01",
-            "Voltage": "380",
-            "Power": "95",
-            "Current": "164"
-        },
-        {
-            "MotorName": "74X001-K01A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.1"
-        },
-        {
-            "MotorName": "74X001-K01B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "31.1"
-        },
-        {
-            "MotorName": "74X001-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.58"
-        },
-        {
-            "MotorName": "74X001-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.58"
-        },
-        {
-            "MotorName": "74X001-P02A-M01",
-            "Voltage": "380",
-            "Power": "1.5",
-            "Current": "3.1"
-        },
-        {
-            "MotorName": "74X001-P02B-M01",
-            "Voltage": "380",
-            "Power": "1.5",
-            "Current": "3.1"
-        },
-        {
-            "MotorName": "74X001-P03A-M01",
-            "Voltage": "380",
-            "Power": "0.55",
-            "Current": "1.43"
-        },
-        {
-            "MotorName": "74X001-P03B-M01",
-            "Voltage": "380",
-            "Power": "0.55",
-            "Current": "1.43"
-        },
-        {
-            "MotorName": "74X001-P04A-M01",
-            "Voltage": "380",
-            "Power": "0.55",
-            "Current": "1.43"
-        },
-        {
-            "MotorName": "74X001-P04B-M01",
-            "Voltage": "380",
-            "Power": "0.55",
-            "Current": "1.43"
-        },
-        {
-            "MotorName": "74X001-P05A-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.9"
-        },
-        {
-            "MotorName": "74X001-P05B-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.9"
-        },
-        {
-            "MotorName": "74X001-P06A-M01",
-            "Voltage": "380",
-            "Power": "0.55",
-            "Current": "1.43"
-        },
-        {
-            "MotorName": "74X001-P06B-M01",
-            "Voltage": "380",
-            "Power": "0.55",
-            "Current": "1.43"
-        },
-        {
-            "MotorName": "74X001-P07A-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "10.4"
-        },
-        {
-            "MotorName": "74X001-P07B-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "10.4"
-        },
-        {
-            "MotorName": "74X001-P08A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40.4"
-        },
-        {
-            "MotorName": "74X001-P08B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "40.4"
-        },
-        {
-            "MotorName": "74X002-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "74X002-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "75P005A-M01",
-            "Voltage": "11000",
-            "Power": "3000",
-            "Current": "200"
-        },
-        {
-            "MotorName": "75P005B-M01",
-            "Voltage": "11000",
-            "Power": "3000",
-            "Current": "200"
-        },
-        {
-            "MotorName": "75P005C-M01",
-            "Voltage": "11000",
-            "Power": "3000",
-            "Current": "200"
-        },
-        {
-            "MotorName": "75X004-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.83"
-        },
-        {
-            "MotorName": "75X004-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.75",
-            "Current": "1.83"
-        },
-        {
-            "MotorName": "75X005-P01A-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "75X005-P01B-M01",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "75F001A-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "0.99"
-        },
-        {
-            "MotorName": "75F001B-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "0.99"
-        },
-        {
-            "MotorName": "75K001A-M01",
-            "Voltage": "380 Y",
-            "Power": "110",
-            "Current": "195"
-        },
-        {
-            "MotorName": "75K001A-M01",
-            "Voltage": "380 D",
-            "Power": "65",
-            "Current": "144"
-        },
-        {
-            "MotorName": "75K001B-M01",
-            "Voltage": "380 Y",
-            "Power": "110",
-            "Current": "195"
-        },
-        {
-            "MotorName": "75K001B-M01",
-            "Voltage": "380 D",
-            "Power": "65",
-            "Current": "144"
-        },
-        {
-            "MotorName": "75K001C-M01",
-            "Voltage": "380 Y",
-            "Power": "110",
-            "Current": "195"
-        },
-        {
-            "MotorName": "75K001C-M01",
-            "Voltage": "380 D",
-            "Power": "65",
-            "Current": "144"
-        },
-        {
-            "MotorName": "75K001D-M01",
-            "Voltage": "380 Y",
-            "Power": "110",
-            "Current": "195"
-        },
-        {
-            "MotorName": "75K001D-M01",
-            "Voltage": "380 D",
-            "Power": "65",
-            "Current": "144"
-        },
-        {
-            "MotorName": "75K001E-M01",
-            "Voltage": "380 Y",
-            "Power": "110",
-            "Current": "195"
-        },
-        {
-            "MotorName": "75K001E-M01",
-            "Voltage": "380 D",
-            "Power": "65",
-            "Current": "144"
-        },
-        {
-            "MotorName": "75K001F-M01",
-            "Voltage": "380 Y",
-            "Power": "110",
-            "Current": "195"
-        },
-        {
-            "MotorName": "75K001F-M01",
-            "Voltage": "380 D",
-            "Power": "65",
-            "Current": "144"
-        },
-        {
-            "MotorName": "77P002A-M01",
-            "Voltage": "380",
-            "Power": "65",
-            "Current": "144"
-        },
-        {
-            "MotorName": "77P002B-M01",
-            "Voltage": "380",
-            "Power": "150",
-            "Current": "274"
-        },
-        {
-            "MotorName": "77P003A-M01",
-            "Voltage": "380",
-            "Power": "150",
-            "Current": "263"
-        },
-        {
-            "MotorName": "77P003B-M01",
-            "Voltage": "380",
-            "Power": "150",
-            "Current": "263"
-        },
-        {
-            "MotorName": "77P005A-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "77P005B-M01",
-            "Voltage": "380",
-            "Power": "110",
-            "Current": "200"
-        },
-        {
-            "MotorName": "77P007A-M01",
-            "Voltage": "6000",
-            "Power": "430",
-            "Current": "49"
-        },
-        {
-            "MotorName": "77P007B-M01",
-            "Voltage": "6000",
-            "Power": "430",
-            "Current": "49"
-        },
-        {
-            "MotorName": "77P008A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "77P008B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "77P009A-M01",
-            "Voltage": "6000",
-            "Power": "350",
-            "Current": "41"
-        },
-        {
-            "MotorName": "77P009B-M01",
-            "Voltage": "6000",
-            "Power": "350",
-            "Current": "41"
-        },
-        {
-            "MotorName": "77P010A-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "77P010B-M01",
-            "Voltage": "380",
-            "Power": "75",
-            "Current": "135"
-        },
-        {
-            "MotorName": "77P011-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "16.2"
-        },
-        {
-            "MotorName": "77P012A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "66"
-        },
-        {
-            "MotorName": "77P012B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "66"
-        },
-        {
-            "MotorName": "77P013A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "77P013B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "77P015A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "7.8"
-        },
-        {
-            "MotorName": "77P015B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "7.8"
-        },
-        {
-            "MotorName": "77P016A-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "77P016B-M01",
-            "Voltage": "380",
-            "Power": "45",
-            "Current": "83"
-        },
-        {
-            "MotorName": "77P017A-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "238"
-        },
-        {
-            "MotorName": "77P017B-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "238"
-        },
-        {
-            "MotorName": "77P018A-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "166"
-        },
-        {
-            "MotorName": "77P018B-M01",
-            "Voltage": "380",
-            "Power": "90",
-            "Current": "166"
-        },
-        {
-            "MotorName": "77P020A-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "238"
-        },
-        {
-            "MotorName": "77P020B-M01",
-            "Voltage": "380",
-            "Power": "132",
-            "Current": "238"
-        },
-        {
-            "MotorName": "77P021-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "16.2"
-        },
-        {
-            "MotorName": "77P022A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "69"
-        },
-        {
-            "MotorName": "77P022B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "69"
-        },
-        {
-            "MotorName": "77P102A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "7.8"
-        },
-        {
-            "MotorName": "77P102B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "7.8"
-        },
-        {
-            "MotorName": "77P105A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "77P105B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "77P107-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "4.4"
-        },
-        {
-            "MotorName": "77P108A-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "77P108B-M01",
-            "Voltage": "380",
-            "Power": "5.5",
-            "Current": "11.4"
-        },
-        {
-            "MotorName": "77P111A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "27.9"
-        },
-        {
-            "MotorName": "77P111B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "27.9"
-        },
-        {
-            "MotorName": "77TN002A-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "58"
-        },
-        {
-            "MotorName": "77TN002B-M01",
-            "Voltage": "380",
-            "Power": "30",
-            "Current": "58"
-        },
-        {
-            "MotorName": "77TN005A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "77TN005B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "77TN006-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "77TN007A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "43.2"
-        },
-        {
-            "MotorName": "77TN007B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "43.2"
-        },
-        {
-            "MotorName": "77TN008-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "77TN011-M01",
-            "Voltage": "380",
-            "Power": "2.2",
-            "Current": "4.6"
-        },
-        {
-            "MotorName": "77TN014-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "29.3"
-        },
-        {
-            "MotorName": "77X001-P01A",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "77X001-P01B",
-            "Voltage": "380",
-            "Power": "0.25",
-            "Current": "0.84"
-        },
-        {
-            "MotorName": "78P001A-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "36.1"
-        },
-        {
-            "MotorName": "78P001B-M01",
-            "Voltage": "380",
-            "Power": "18.5",
-            "Current": "36.1"
-        },
-        {
-            "MotorName": "78P002A-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "78P002B-M01",
-            "Voltage": "380",
-            "Power": "37",
-            "Current": "70.2"
-        },
-        {
-            "MotorName": "78P003A-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "27.9"
-        },
-        {
-            "MotorName": "78P003B-M01",
-            "Voltage": "380",
-            "Power": "15",
-            "Current": "27.9"
-        },
-        {
-            "MotorName": "78P004A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "78P004B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "78P005A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.1"
-        },
-        {
-            "MotorName": "78P005B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.1"
-        },
-        {
-            "MotorName": "78P006A-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "78P006B-M01",
-            "Voltage": "380",
-            "Power": "4",
-            "Current": "8.5"
-        },
-        {
-            "MotorName": "78P007A-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "41.2"
-        },
-        {
-            "MotorName": "78P007B-M01",
-            "Voltage": "380",
-            "Power": "22",
-            "Current": "41.2"
-        },
-        {
-            "MotorName": "78P008A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "78P008B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "78P009A-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "78P009B-M01",
-            "Voltage": "380",
-            "Power": "11",
-            "Current": "20.6"
-        },
-        {
-            "MotorName": "78P010A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "78P010B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "14.2"
-        },
-        {
-            "MotorName": "78P012-M01",
-            "Voltage": "380",
-            "Power": "3",
-            "Current": "6.2"
-        },
-        {
-            "MotorName": "78X001-P01A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "16.2"
-        },
-        {
-            "MotorName": "78X001-P01B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "16.2"
-        },
-        {
-            "MotorName": "78X002-P01A-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "13.9"
-        },
-        {
-            "MotorName": "78X002-P01B-M01",
-            "Voltage": "380",
-            "Power": "7.5",
-            "Current": "13.9"
-        },
-        {
-            "MotorName": "78X002-P02A-M01",
-            "Voltage": "380",
-            "Power": "0.37",
-            "Current": "1"
-        },
-        {
-            "MotorName": "78X002-P03A-M01",
-            "Voltage": "380",
-            "Power": "1.1",
-            "Current": "2.4"
-        },
-        {
-            "MotorName": "78X002-Z03-M01",
-            "Voltage": "380",
-            "Power": "0.55",
-            "Current": "1.41"
-        },
-        {
-            "MotorName": "78K001B-M01",
-            "Voltage": "380",
-            "Power": "2.1",
-            "Current": "10.7"
-        },
-        {
-            "MotorName": " "
-        }
-    ]
+  "Motorlist": [
+    {
+      "MotorName": "51E006A-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "51E006B-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "51E006C-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "51E006D-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "51E006A-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "51E006B-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "51E006C-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "51E006D-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "51E013-K01A-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "13.2"
+    },
+    {
+      "MotorName": "51E013-K01B-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "13.2"
+    },
+    {
+      "MotorName": "51K001-M01",
+      "Voltage": "6000",
+      "Power": "500",
+      "Current": "60"
+    },
+    {
+      "MotorName": "51K001-P01-M01",
+      "Voltage": "380",
+      "Power": "3.7",
+      "Current": "7.4"
+    },
+    {
+      "MotorName": "51K001-P02-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "74"
+    },
+    {
+      "MotorName": "51K002-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "24"
+    },
+    {
+      "MotorName": "51K002-P01-M01",
+      "Voltage": "380",
+      "Power": "3.7",
+      "Current": "7.4"
+    },
+    {
+      "MotorName": "51K002-P02-M01",
+      "Voltage": "380",
+      "Power": "3.7",
+      "Current": "7.4"
+    },
+    {
+      "MotorName": "51K003-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "3.1"
+    },
+    {
+      "MotorName": "51K004A-M01",
+      "Voltage": "11000",
+      "Power": "1550",
+      "Current": "116"
+    },
+    {
+      "MotorName": "51K004B-M01",
+      "Voltage": "11000",
+      "Power": "1550",
+      "Current": "116"
+    },
+    {
+      "MotorName": "51K004A-P02-M01",
+      "Voltage": "380",
+      "Power": "3.6",
+      "Current": "7.9"
+    },
+    {
+      "MotorName": "51K004A-Z01-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "6"
+    },
+    {
+      "MotorName": "51K004B-P02-M01",
+      "Voltage": "380",
+      "Power": "3.6",
+      "Current": "7.9"
+    },
+    {
+      "MotorName": "51K004B-Z01-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "6"
+    },
+    {
+      "MotorName": "51K005-M01",
+      "Voltage": "6000",
+      "Power": "500",
+      "Current": "63"
+    },
+    {
+      "MotorName": "51K005-P01-M01",
+      "Voltage": "380",
+      "Power": "2.6",
+      "Current": "6.8"
+    },
+    {
+      "MotorName": "51K005-P02-M01",
+      "Voltage": "380",
+      "Power": "2.6",
+      "Current": "6.8"
+    },
+    {
+      "MotorName": "51P001A-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "160"
+    },
+    {
+      "MotorName": "51P001B-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "160"
+    },
+    {
+      "MotorName": "51P002A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "51P002B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "51P003A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "51P003B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "51X003-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "51X003-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "51X003-P02A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "51X003-P02B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "51X004-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "51X004-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "52B001-K01-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "67.7"
+    },
+    {
+      "MotorName": "52B001-K02-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "87.1"
+    },
+    {
+      "MotorName": "52E004A-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "52E004B-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "52E004C-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "52E004D-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "52E004A-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "52E004B-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "52E004C-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "52E004D-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "52E005-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.1"
+    },
+    {
+      "MotorName": "52E005-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "38.1"
+    },
+    {
+      "MotorName": "52E007A-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "52E007A-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "52E007B-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "52E007B-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "52E009-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "52E009-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "52E011A-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.8"
+    },
+    {
+      "MotorName": "52E011B-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.8"
+    },
+    {
+      "MotorName": "52E011C-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.8"
+    },
+    {
+      "MotorName": "52E011A-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "56.8"
+    },
+    {
+      "MotorName": "52E011B-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "56.8"
+    },
+    {
+      "MotorName": "52E011C-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "56.8"
+    },
+    {
+      "MotorName": "52E102-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.1"
+    },
+    {
+      "MotorName": "52E102-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "38.1"
+    },
+    {
+      "MotorName": "52E103-K01A-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "58.3"
+    },
+    {
+      "MotorName": "52E103-K01B-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "52K001-P01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43"
+    },
+    {
+      "MotorName": "52K001-P01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43"
+    },
+    {
+      "MotorName": "52K001-P01C-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "7.9"
+    },
+    {
+      "MotorName": "52K002A-M01",
+      "Voltage": "11000",
+      "Power": "2950",
+      "Current": "193"
+    },
+    {
+      "MotorName": "52K002B-M01",
+      "Voltage": "11000",
+      "Power": "2950",
+      "Current": "193"
+    },
+    {
+      "MotorName": "52K002A-P02-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "16.8"
+    },
+    {
+      "MotorName": "52K002B-P02-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "16.8"
+    },
+    {
+      "MotorName": "52K101-M01",
+      "Voltage": "6000",
+      "Power": "370",
+      "Current": "61"
+    },
+    {
+      "MotorName": "52K101-P01-M01",
+      "Voltage": "380",
+      "Power": "3.7",
+      "Current": "8.7"
+    },
+    {
+      "MotorName": "52K101-P02-M01",
+      "Voltage": "380",
+      "Power": "3.7",
+      "Current": "8.7"
+    },
+    {
+      "MotorName": "52P001A-M01",
+      "Voltage": "11000",
+      "Power": "2200",
+      "Current": "130"
+    },
+    {
+      "MotorName": "52P001B-M01",
+      "Voltage": "11000",
+      "Power": "2200",
+      "Current": "130"
+    },
+    {
+      "MotorName": "52P001A-P02-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "52P001B-P02-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "52P002A-M01",
+      "Voltage": "11000",
+      "Power": "780",
+      "Current": "50"
+    },
+    {
+      "MotorName": "52P002B-M01",
+      "Voltage": "11000",
+      "Power": "780",
+      "Current": "50"
+    },
+    {
+      "MotorName": "52P003A-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "250"
+    },
+    {
+      "MotorName": "52P003B-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "250"
+    },
+    {
+      "MotorName": "52P004A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "37.3"
+    },
+    {
+      "MotorName": "52P004B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "37.3"
+    },
+    {
+      "MotorName": "52P005A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "-"
+    },
+    {
+      "MotorName": "52P005B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "-"
+    },
+    {
+      "MotorName": "52P006A-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "56.8"
+    },
+    {
+      "MotorName": "52P006B-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "56.8"
+    },
+    {
+      "MotorName": "52P007A-M01",
+      "Voltage": "11000",
+      "Power": "1150",
+      "Current": "70"
+    },
+    {
+      "MotorName": "52P007B-M01",
+      "Voltage": "11000",
+      "Power": "1150",
+      "Current": "70"
+    },
+    {
+      "MotorName": "52P009A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "52P009B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "52P010A-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "7.9"
+    },
+    {
+      "MotorName": "52P010B-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "7.9"
+    },
+    {
+      "MotorName": "52P101-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "238"
+    },
+    {
+      "MotorName": "52P102-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "52P103-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "-"
+    },
+    {
+      "MotorName": "52P104A-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "55"
+    },
+    {
+      "MotorName": "52P104B-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "55"
+    },
+    {
+      "MotorName": "52X003-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "1.16"
+    },
+    {
+      "MotorName": "52X003-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "1.16"
+    },
+    {
+      "MotorName": "52X003-P02A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "52X003-P02B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "52P007A-P01-M01",
+      "Voltage": "380",
+      "Power": "2.1",
+      "Current": "5.1"
+    },
+    {
+      "MotorName": "52P007A-P02-M01",
+      "Voltage": "380",
+      "Power": "2.1",
+      "Current": "5.1"
+    },
+    {
+      "MotorName": "52P007B-P01-M01",
+      "Voltage": "380",
+      "Power": "2.1",
+      "Current": "5.1"
+    },
+    {
+      "MotorName": "52P007B-P02-M01",
+      "Voltage": "380",
+      "Power": "2.1",
+      "Current": "5.1"
+    },
+    {
+      "MotorName": "52K002A-Z01-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.75"
+    },
+    {
+      "MotorName": "52K002A-Z02-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.75"
+    },
+    {
+      "MotorName": "52K001-Z01-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.3"
+    },
+    {
+      "MotorName": "52K002B-Z01-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.75"
+    },
+    {
+      "MotorName": "52K002B-Z02-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.75"
+    },
+    {
+      "MotorName": "52K101-Z01-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.75"
+    },
+    {
+      "MotorName": "53E117A-K01A-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "58.3"
+    },
+    {
+      "MotorName": "53E117A-K01B-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "53E131-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "53E131-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "53E133-K01A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "16.2"
+    },
+    {
+      "MotorName": "53E133-K01B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "21.9"
+    },
+    {
+      "MotorName": "53K101-P01-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "101"
+    },
+    {
+      "MotorName": "53K101-P02-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "101"
+    },
+    {
+      "MotorName": "53K101-P03-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "25.5"
+    },
+    {
+      "MotorName": "53P101A-M01",
+      "Voltage": "6000",
+      "Power": "250",
+      "Current": "28"
+    },
+    {
+      "MotorName": "53P101B-M01",
+      "Voltage": "6000",
+      "Power": "250",
+      "Current": "28"
+    },
+    {
+      "MotorName": "53P102B-M01",
+      "Voltage": "6000",
+      "Power": "330",
+      "Current": "37"
+    },
+    {
+      "MotorName": "53P102C-M01",
+      "Voltage": "6000",
+      "Power": "330",
+      "Current": "37"
+    },
+    {
+      "MotorName": "53P103A-M01",
+      "Voltage": "6000",
+      "Power": "300",
+      "Current": "36"
+    },
+    {
+      "MotorName": "53P103B-M01",
+      "Voltage": "6000",
+      "Power": "300",
+      "Current": "36"
+    },
+    {
+      "MotorName": "53P104A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "53P104B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "53P105A-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "25"
+    },
+    {
+      "MotorName": "53P105B-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "25"
+    },
+    {
+      "MotorName": "53P106A-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "237"
+    },
+    {
+      "MotorName": "53P106B-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "237"
+    },
+    {
+      "MotorName": "53P108A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "53P108B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "53P109A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53P109B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53P110A-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11"
+    },
+    {
+      "MotorName": "53P110B-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11"
+    },
+    {
+      "MotorName": "53P111-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "137"
+    },
+    {
+      "MotorName": "53P112A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "41"
+    },
+    {
+      "MotorName": "53P112B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "41"
+    },
+    {
+      "MotorName": "53P113-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "53P114A-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "97"
+    },
+    {
+      "MotorName": "53P114B-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "97"
+    },
+    {
+      "MotorName": "53P115A-M01",
+      "Voltage": "380",
+      "Power": "150",
+      "Current": "274"
+    },
+    {
+      "MotorName": "53P115B-M01",
+      "Voltage": "380",
+      "Power": "150",
+      "Current": "274"
+    },
+    {
+      "MotorName": "53P116A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "53P116B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "53P117A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "87"
+    },
+    {
+      "MotorName": "53P117B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "87"
+    },
+    {
+      "MotorName": "53P118A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "53P118B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "53P119A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "53P119B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "53P120A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "202"
+    },
+    {
+      "MotorName": "53P120B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "202"
+    },
+    {
+      "MotorName": "53P121A-M01",
+      "Voltage": "6000",
+      "Power": "270",
+      "Current": "30"
+    },
+    {
+      "MotorName": "53P121B-M01",
+      "Voltage": "6000",
+      "Power": "270",
+      "Current": "30"
+    },
+    {
+      "MotorName": "53P122A-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "247"
+    },
+    {
+      "MotorName": "53P122B-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "247"
+    },
+    {
+      "MotorName": "53P123A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "196"
+    },
+    {
+      "MotorName": "53P123B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "196"
+    },
+    {
+      "MotorName": "53P124A-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "97.3"
+    },
+    {
+      "MotorName": "53P124B-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "97.3"
+    },
+    {
+      "MotorName": "53P126A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "67"
+    },
+    {
+      "MotorName": "53P126B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "67"
+    },
+    {
+      "MotorName": "53P127A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40.5"
+    },
+    {
+      "MotorName": "53P127B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40.5"
+    },
+    {
+      "MotorName": "53P128A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "53P128B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "53P129A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.33"
+    },
+    {
+      "MotorName": "53P129B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.33"
+    },
+    {
+      "MotorName": "53P130A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53P130B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53P131A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "53P131B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "53P132A-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "98"
+    },
+    {
+      "MotorName": "53P132B-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "98"
+    },
+    {
+      "MotorName": "53P133A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53P133B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53P134A-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "97"
+    },
+    {
+      "MotorName": "53P134B-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "97"
+    },
+    {
+      "MotorName": "53P138A-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "160"
+    },
+    {
+      "MotorName": "53P138B-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "160"
+    },
+    {
+      "MotorName": "53P139A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53P139B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "53Q001-P01-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q001-P02-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q001-P03-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.9"
+    },
+    {
+      "MotorName": "53Q002-P01-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q002-P02-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q002-P03-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.9"
+    },
+    {
+      "MotorName": "53Q003-P01-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q003-P02-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q003-P03-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.9"
+    },
+    {
+      "MotorName": "53Q004-P01-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q004-P02-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "53Q004-P03-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.9"
+    },
+    {
+      "MotorName": "53K001-K02-M01",
+      "Voltage": "380",
+      "Power": "1.5",
+      "Current": "3.1"
+    },
+    {
+      "MotorName": "53K001-M01",
+      "Voltage": "11000",
+      "Power": "12900",
+      "Current": "763"
+    },
+    {
+      "MotorName": "53K002-M01",
+      "Voltage": "11000",
+      "Power": "2800",
+      "Current": "172"
+    },
+    {
+      "MotorName": "53K001-P01-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.5"
+    },
+    {
+      "MotorName": "53K001-P02-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.5"
+    },
+    {
+      "MotorName": "53K001-P03-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.5"
+    },
+    {
+      "MotorName": "53K001-Z02-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.3"
+    },
+    {
+      "MotorName": "53P136-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "53X002-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "67.3"
+    },
+    {
+      "MotorName": "53X002-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "67.3"
+    },
+    {
+      "MotorName": "53X002-K02A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "134"
+    },
+    {
+      "MotorName": "53X002-K02B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "134"
+    },
+    {
+      "MotorName": "53X002-K02-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K03-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K04-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K05-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K06-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K07-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K08-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K09-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K10-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K11-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K12-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K13-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K14-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K15-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K16-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K17-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K18-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K19-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K20-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K21-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K22-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K23-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K24-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K25-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K26-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K27-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K28-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K29-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K30-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K31-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K32-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K33-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K34-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K35-M01",
+      "Voltage": "400",
+      "Power": "0.75",
+      "Current": "3.38"
+    },
+    {
+      "MotorName": "53X002-K36-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K37-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "53X002-K38-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K39-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K40-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K41-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K42-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K43-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K44-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K45-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K46-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K47-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K48-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K49-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K50-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K51-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K52-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K53-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K54-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X002-K55-M01",
+      "Voltage": "380",
+      "Power": "0.52",
+      "Current": "1.36"
+    },
+    {
+      "MotorName": "53X003-K01-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40"
+    },
+    {
+      "MotorName": "53X003-K02-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40"
+    },
+    {
+      "MotorName": "53X003-X01-M01",
+      "Voltage": "380",
+      "Power": "0.2",
+      "Current": "0.5"
+    },
+    {
+      "MotorName": "53X003-X02-M01",
+      "Voltage": "380",
+      "Power": "0.2",
+      "Current": "0.5"
+    },
+    {
+      "MotorName": "53X003-X03-M01",
+      "Voltage": "380",
+      "Power": "0.2",
+      "Current": "0.5"
+    },
+    {
+      "MotorName": "53X003-X04-M01",
+      "Voltage": "380",
+      "Power": "0.2",
+      "Current": "0.5"
+    },
+    {
+      "MotorName": "53X003-X05-M01",
+      "Voltage": "380",
+      "Power": "0.2",
+      "Current": "0.5"
+    },
+    {
+      "MotorName": "53X003-X06-M01",
+      "Voltage": "380",
+      "Power": "0.2",
+      "Current": "0.5"
+    },
+    {
+      "MotorName": "53X002-P01A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "134"
+    },
+    {
+      "MotorName": "53X002-P01B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "134"
+    },
+    {
+      "MotorName": "53X106-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "53X106-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "53K101-PUR-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "6.3"
+    },
+    {
+      "MotorName": "54E005A-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "54E005A-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "54E005B-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "54E005B-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "54E007-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.1"
+    },
+    {
+      "MotorName": "54E007-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.1"
+    },
+    {
+      "MotorName": "54E010A-K01A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "87"
+    },
+    {
+      "MotorName": "54E010A-K01B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "87"
+    },
+    {
+      "MotorName": "54E010B-K01A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "87"
+    },
+    {
+      "MotorName": "54E010B-K01B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "87"
+    },
+    {
+      "MotorName": "54E012-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43.8"
+    },
+    {
+      "MotorName": "54E012-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43.8"
+    },
+    {
+      "MotorName": "54K001A-P02-M01",
+      "Voltage": "380",
+      "Power": "3.7",
+      "Current": "8.7"
+    },
+    {
+      "MotorName": "54K001B-P02-M01",
+      "Voltage": "380",
+      "Power": "3.7",
+      "Current": "8.7"
+    },
+    {
+      "MotorName": "54K001A-Z01-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.75"
+    },
+    {
+      "MotorName": "54K001B-Z01-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.75"
+    },
+    {
+      "MotorName": "54P001A-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "22"
+    },
+    {
+      "MotorName": "54P001B-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "22"
+    },
+    {
+      "MotorName": "54P002A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "67"
+    },
+    {
+      "MotorName": "54P002B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "67"
+    },
+    {
+      "MotorName": "54P003A-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "10.7"
+    },
+    {
+      "MotorName": "54P003B-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "10.7"
+    },
+    {
+      "MotorName": "54P004A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "54P004B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "54P005A-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "101"
+    },
+    {
+      "MotorName": "54P005B-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "101"
+    },
+    {
+      "MotorName": "54P006A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "82.9"
+    },
+    {
+      "MotorName": "54P006B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "82.9"
+    },
+    {
+      "MotorName": "54P007A-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "237"
+    },
+    {
+      "MotorName": "54P007B-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "237"
+    },
+    {
+      "MotorName": "54K001A-M01",
+      "Voltage": "6000",
+      "Power": "540",
+      "Current": "82"
+    },
+    {
+      "MotorName": "54K001B-M01",
+      "Voltage": "6000",
+      "Power": "540",
+      "Current": "82"
+    },
+    {
+      "MotorName": "55E004-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.1"
+    },
+    {
+      "MotorName": "55E004-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "38.1"
+    },
+    {
+      "MotorName": "55E007-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "55E007-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "43.7"
+    },
+    {
+      "MotorName": "55E103-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43.8"
+    },
+    {
+      "MotorName": "55E103-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43.8"
+    },
+    {
+      "MotorName": "55E104-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43.8"
+    },
+    {
+      "MotorName": "55E104-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "43.8"
+    },
+    {
+      "MotorName": "55E105A-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "55E105B-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "55E105C-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "55E105D-K01A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "55E105A-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "55E105B-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "55E105C-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "55E105D-K01B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "83"
+    },
+    {
+      "MotorName": "55E110-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.1"
+    },
+    {
+      "MotorName": "55E110-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.1"
+    },
+    {
+      "MotorName": "55P001A-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "238"
+    },
+    {
+      "MotorName": "55P001B-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "238"
+    },
+    {
+      "MotorName": "55P002A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "55P002B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "55P003A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "55P003B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "55P101A-M01",
+      "Voltage": "6000",
+      "Power": "485",
+      "Current": "53"
+    },
+    {
+      "MotorName": "55P101B-M01",
+      "Voltage": "6000",
+      "Power": "485",
+      "Current": "53"
+    },
+    {
+      "MotorName": "55P102A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "69"
+    },
+    {
+      "MotorName": "55P102B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "69"
+    },
+    {
+      "MotorName": "55P103A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "33.5"
+    },
+    {
+      "MotorName": "55P103B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "33.5"
+    },
+    {
+      "MotorName": "55P104A-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "160"
+    },
+    {
+      "MotorName": "55P104B-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "160"
+    },
+    {
+      "MotorName": "55X101-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "55X101-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "56P001A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "56P001B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "56P002A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "56P002B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "56P003A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "51.8"
+    },
+    {
+      "MotorName": "56P003B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "51.8"
+    },
+    {
+      "MotorName": "56P004A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "56P004B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "56P005A-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "7.9"
+    },
+    {
+      "MotorName": "56P005B-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "7.9"
+    },
+    {
+      "MotorName": "56P006A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "56P006B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "56P007A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "56P007B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "56P008A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "56P008B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "56P009A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "56P009B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "57K001-M01",
+      "Voltage": "6000",
+      "Power": "225",
+      "Current": "25"
+    },
+    {
+      "MotorName": "57K002-M01",
+      "Voltage": "6000",
+      "Power": "225",
+      "Current": "25"
+    },
+    {
+      "MotorName": "57P001A-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "25"
+    },
+    {
+      "MotorName": "57P001B-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "25"
+    },
+    {
+      "MotorName": "57P001C-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "25"
+    },
+    {
+      "MotorName": "57P002A-M01",
+      "Voltage": "6000",
+      "Power": "250",
+      "Current": "30"
+    },
+    {
+      "MotorName": "57P002B-M01",
+      "Voltage": "6000",
+      "Power": "250",
+      "Current": "30"
+    },
+    {
+      "MotorName": "57P002C-M01",
+      "Voltage": "6000",
+      "Power": "250",
+      "Current": "30"
+    },
+    {
+      "MotorName": "57P003A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "34.2"
+    },
+    {
+      "MotorName": "57P003B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "34.2"
+    },
+    {
+      "MotorName": "57P004A-M01",
+      "Voltage": "6000",
+      "Power": "250",
+      "Current": "30"
+    },
+    {
+      "MotorName": "57P004B-M01",
+      "Voltage": "6000",
+      "Power": "250",
+      "Current": "30"
+    },
+    {
+      "MotorName": "57K001-P02-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "7.7"
+    },
+    {
+      "MotorName": "57K002-P02-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "7.7"
+    },
+    {
+      "MotorName": "57X002-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "57X002-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "57X002-P02A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "57X002-P02B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "57X002-P03A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "57X002-P03B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "58K001-M01",
+      "Voltage": "6000",
+      "Power": "1600",
+      "Current": "180"
+    },
+    {
+      "MotorName": "58K001-P01-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21.5"
+    },
+    {
+      "MotorName": "58K001-P02-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21.5"
+    },
+    {
+      "MotorName": "58K401-M01",
+      "Voltage": "6000",
+      "Power": "2000",
+      "Current": "222"
+    },
+    {
+      "MotorName": "58K401-P01-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21.5"
+    },
+    {
+      "MotorName": "58K401-P02-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21.5"
+    },
+    {
+      "MotorName": "58K501-M01",
+      "Voltage": "6000",
+      "Power": "2600",
+      "Current": "294"
+    },
+    {
+      "MotorName": "58K501-P01-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21.5"
+    },
+    {
+      "MotorName": "58K501-P02-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21.5"
+    },
+    {
+      "MotorName": "58P001A-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "18.9"
+    },
+    {
+      "MotorName": "58P001B-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "18.9"
+    },
+    {
+      "MotorName": "58P002A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P002B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P004A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P004B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P006A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P006B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P201A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P201B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "58P401A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "58P401B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "58X001-P01A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "15.4"
+    },
+    {
+      "MotorName": "58X001-P01B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "15.4"
+    },
+    {
+      "MotorName": "58X003-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "58X003-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.81"
+    },
+    {
+      "MotorName": "70E003A-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "70E003B-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "70E003C-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "70E003D-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "70E003A-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "70E003B-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "70E003C-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "70E003D-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "70E004A-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "70E004A-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "70E004B-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "70E004B-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "70P001-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "7.8"
+    },
+    {
+      "MotorName": "70P002A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44"
+    },
+    {
+      "MotorName": "70P002B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44"
+    },
+    {
+      "MotorName": "70P003A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "70P003B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "70P004A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "70P004B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "70P006A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "70P006B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "70P007A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "70P007B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "70P009-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "70P010-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "13.9"
+    },
+    {
+      "MotorName": "71E003A-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "71E003B-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "71E003A-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "38.1"
+    },
+    {
+      "MotorName": "71E003B-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "38.1"
+    },
+    {
+      "MotorName": "71E004A-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "71E004B-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "71E004C-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "71E004D-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "71E004A-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "71E004B-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "71E004C-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "71E004D-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.7"
+    },
+    {
+      "MotorName": "71P001A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "71P001B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "143"
+    },
+    {
+      "MotorName": "71P002A-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "58.3"
+    },
+    {
+      "MotorName": "71P002B-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "58.3"
+    },
+    {
+      "MotorName": "71P003A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "71P003B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "71P004A-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "23"
+    },
+    {
+      "MotorName": "71P004B-M01",
+      "Voltage": "6000",
+      "Power": "200",
+      "Current": "23"
+    },
+    {
+      "MotorName": "71P005-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "34.2"
+    },
+    {
+      "MotorName": "71P007A-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "54"
+    },
+    {
+      "MotorName": "71P007B-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "54"
+    },
+    {
+      "MotorName": "71TN001-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "4.6"
+    },
+    {
+      "MotorName": "71X001-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "71X001-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "72K101-M01",
+      "Voltage": "6000",
+      "Power": "230",
+      "Current": "26"
+    },
+    {
+      "MotorName": "72K101-K01-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72K101-P02-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72K201-M01",
+      "Voltage": "6000",
+      "Power": "230",
+      "Current": "26"
+    },
+    {
+      "MotorName": "72K201-K01-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72K201-P02-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72K301-M01",
+      "Voltage": "6000",
+      "Power": "230",
+      "Current": "26"
+    },
+    {
+      "MotorName": "72K301-K01-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72K301-P02-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72K601-M01",
+      "Voltage": "6000",
+      "Power": "230",
+      "Current": "26"
+    },
+    {
+      "MotorName": "72K601-K01-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72K601-P02-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.5"
+    },
+    {
+      "MotorName": "72X601-TN01-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "1.16"
+    },
+    {
+      "MotorName": "72P601A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "72P601B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "21"
+    },
+    {
+      "MotorName": "72P602A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "72P602B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "72P603A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29"
+    },
+    {
+      "MotorName": "72P603B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29"
+    },
+    {
+      "MotorName": "72P604A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.5"
+    },
+    {
+      "MotorName": "72P604B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "42.5"
+    },
+    {
+      "MotorName": "72X601-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "1.16"
+    },
+    {
+      "MotorName": "72X601-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "1.16"
+    },
+    {
+      "MotorName": "72X602-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "72X602-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "72X603-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "72X603-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "73E402A-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73E402B-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73E402C-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73E402A-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73E402B-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73E402C-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73E503A-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73E503B-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "73K401-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "237"
+    },
+    {
+      "MotorName": "73K401-K01-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "73K401-K02-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.95"
+    },
+    {
+      "MotorName": "73K402A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "73K402B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "73P401A-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "98"
+    },
+    {
+      "MotorName": "73P401B-M01",
+      "Voltage": "380",
+      "Power": "55",
+      "Current": "98"
+    },
+    {
+      "MotorName": "73P402A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40.5"
+    },
+    {
+      "MotorName": "73P402B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40.5"
+    },
+    {
+      "MotorName": "73P501A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "34.2"
+    },
+    {
+      "MotorName": "73P501B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "34.2"
+    },
+    {
+      "MotorName": "73P502A-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "10.5"
+    },
+    {
+      "MotorName": "73P502B-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "10.5"
+    },
+    {
+      "MotorName": "73P503A-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "5.9"
+    },
+    {
+      "MotorName": "73P503B-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "5.9"
+    },
+    {
+      "MotorName": "73P504-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "13.9"
+    },
+    {
+      "MotorName": "74E002A-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E002B-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E002C-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E002D-K01A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E002A-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E002B-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E002C-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E002D-K01B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "44.1"
+    },
+    {
+      "MotorName": "74E004A-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "74E004B-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "74E004C-K01A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "74E004A-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "74E004B-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "74E004C-K01B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "37.5"
+    },
+    {
+      "MotorName": "74P001A-M01",
+      "Voltage": "11000",
+      "Power": "1100",
+      "Current": "69"
+    },
+    {
+      "MotorName": "74P001B-M01",
+      "Voltage": "11000",
+      "Power": "1100",
+      "Current": "69"
+    },
+    {
+      "MotorName": "74P001A-P02-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "4.65"
+    },
+    {
+      "MotorName": "74P001B-P02-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "4.65"
+    },
+    {
+      "MotorName": "74P002A-M01",
+      "Voltage": "380",
+      "Power": "100",
+      "Current": "186"
+    },
+    {
+      "MotorName": "74P002B-M01",
+      "Voltage": "380",
+      "Power": "100",
+      "Current": "186"
+    },
+    {
+      "MotorName": "74P002-M01",
+      "Voltage": "380",
+      "Power": "38",
+      "Current": "66.4"
+    },
+    {
+      "MotorName": "74P003A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "136"
+    },
+    {
+      "MotorName": "74P003B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "136"
+    },
+    {
+      "MotorName": "74P003-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "136"
+    },
+    {
+      "MotorName": "74P004A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "198"
+    },
+    {
+      "MotorName": "74P004B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "198"
+    },
+    {
+      "MotorName": "74P004-M01",
+      "Voltage": "380",
+      "Power": "95",
+      "Current": "164"
+    },
+    {
+      "MotorName": "74X001-K01A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.1"
+    },
+    {
+      "MotorName": "74X001-K01B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "31.1"
+    },
+    {
+      "MotorName": "74X001-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.58"
+    },
+    {
+      "MotorName": "74X001-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.58"
+    },
+    {
+      "MotorName": "74X001-P02A-M01",
+      "Voltage": "380",
+      "Power": "1.5",
+      "Current": "3.1"
+    },
+    {
+      "MotorName": "74X001-P02B-M01",
+      "Voltage": "380",
+      "Power": "1.5",
+      "Current": "3.1"
+    },
+    {
+      "MotorName": "74X001-P03A-M01",
+      "Voltage": "380",
+      "Power": "0.55",
+      "Current": "1.43"
+    },
+    {
+      "MotorName": "74X001-P03B-M01",
+      "Voltage": "380",
+      "Power": "0.55",
+      "Current": "1.43"
+    },
+    {
+      "MotorName": "74X001-P04A-M01",
+      "Voltage": "380",
+      "Power": "0.55",
+      "Current": "1.43"
+    },
+    {
+      "MotorName": "74X001-P04B-M01",
+      "Voltage": "380",
+      "Power": "0.55",
+      "Current": "1.43"
+    },
+    {
+      "MotorName": "74X001-P05A-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.9"
+    },
+    {
+      "MotorName": "74X001-P05B-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.9"
+    },
+    {
+      "MotorName": "74X001-P06A-M01",
+      "Voltage": "380",
+      "Power": "0.55",
+      "Current": "1.43"
+    },
+    {
+      "MotorName": "74X001-P06B-M01",
+      "Voltage": "380",
+      "Power": "0.55",
+      "Current": "1.43"
+    },
+    {
+      "MotorName": "74X001-P07A-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "10.4"
+    },
+    {
+      "MotorName": "74X001-P07B-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "10.4"
+    },
+    {
+      "MotorName": "74X001-P08A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40.4"
+    },
+    {
+      "MotorName": "74X001-P08B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "40.4"
+    },
+    {
+      "MotorName": "74X002-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "74X002-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "75P005A-M01",
+      "Voltage": "11000",
+      "Power": "3000",
+      "Current": "200"
+    },
+    {
+      "MotorName": "75P005B-M01",
+      "Voltage": "11000",
+      "Power": "3000",
+      "Current": "200"
+    },
+    {
+      "MotorName": "75P005C-M01",
+      "Voltage": "11000",
+      "Power": "3000",
+      "Current": "200"
+    },
+    {
+      "MotorName": "75X004-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.83"
+    },
+    {
+      "MotorName": "75X004-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.75",
+      "Current": "1.83"
+    },
+    {
+      "MotorName": "75X005-P01A-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "75X005-P01B-M01",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "75F001A-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "0.99"
+    },
+    {
+      "MotorName": "75F001B-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "0.99"
+    },
+    {
+      "MotorName": "75K001A-M01",
+      "Voltage": "380 Y",
+      "Power": "110",
+      "Current": "195"
+    },
+    {
+      "MotorName": "75K001A-M01",
+      "Voltage": "380 D",
+      "Power": "65",
+      "Current": "144"
+    },
+    {
+      "MotorName": "75K001B-M01",
+      "Voltage": "380 Y",
+      "Power": "110",
+      "Current": "195"
+    },
+    {
+      "MotorName": "75K001B-M01",
+      "Voltage": "380 D",
+      "Power": "65",
+      "Current": "144"
+    },
+    {
+      "MotorName": "75K001C-M01",
+      "Voltage": "380 Y",
+      "Power": "110",
+      "Current": "195"
+    },
+    {
+      "MotorName": "75K001C-M01",
+      "Voltage": "380 D",
+      "Power": "65",
+      "Current": "144"
+    },
+    {
+      "MotorName": "75K001D-M01",
+      "Voltage": "380 Y",
+      "Power": "110",
+      "Current": "195"
+    },
+    {
+      "MotorName": "75K001D-M01",
+      "Voltage": "380 D",
+      "Power": "65",
+      "Current": "144"
+    },
+    {
+      "MotorName": "75K001E-M01",
+      "Voltage": "380 Y",
+      "Power": "110",
+      "Current": "195"
+    },
+    {
+      "MotorName": "75K001E-M01",
+      "Voltage": "380 D",
+      "Power": "65",
+      "Current": "144"
+    },
+    {
+      "MotorName": "75K001F-M01",
+      "Voltage": "380 Y",
+      "Power": "110",
+      "Current": "195"
+    },
+    {
+      "MotorName": "75K001F-M01",
+      "Voltage": "380 D",
+      "Power": "65",
+      "Current": "144"
+    },
+    {
+      "MotorName": "77P002A-M01",
+      "Voltage": "380",
+      "Power": "65",
+      "Current": "144"
+    },
+    {
+      "MotorName": "77P002B-M01",
+      "Voltage": "380",
+      "Power": "150",
+      "Current": "274"
+    },
+    {
+      "MotorName": "77P003A-M01",
+      "Voltage": "380",
+      "Power": "150",
+      "Current": "263"
+    },
+    {
+      "MotorName": "77P003B-M01",
+      "Voltage": "380",
+      "Power": "150",
+      "Current": "263"
+    },
+    {
+      "MotorName": "77P005A-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "77P005B-M01",
+      "Voltage": "380",
+      "Power": "110",
+      "Current": "200"
+    },
+    {
+      "MotorName": "77P007A-M01",
+      "Voltage": "6000",
+      "Power": "430",
+      "Current": "49"
+    },
+    {
+      "MotorName": "77P007B-M01",
+      "Voltage": "6000",
+      "Power": "430",
+      "Current": "49"
+    },
+    {
+      "MotorName": "77P008A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "77P008B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "77P009A-M01",
+      "Voltage": "6000",
+      "Power": "350",
+      "Current": "41"
+    },
+    {
+      "MotorName": "77P009B-M01",
+      "Voltage": "6000",
+      "Power": "350",
+      "Current": "41"
+    },
+    {
+      "MotorName": "77P010A-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "77P010B-M01",
+      "Voltage": "380",
+      "Power": "75",
+      "Current": "135"
+    },
+    {
+      "MotorName": "77P011-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "16.2"
+    },
+    {
+      "MotorName": "77P012A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "66"
+    },
+    {
+      "MotorName": "77P012B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "66"
+    },
+    {
+      "MotorName": "77P013A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "77P013B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "77P015A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "7.8"
+    },
+    {
+      "MotorName": "77P015B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "7.8"
+    },
+    {
+      "MotorName": "77P016A-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "77P016B-M01",
+      "Voltage": "380",
+      "Power": "45",
+      "Current": "83"
+    },
+    {
+      "MotorName": "77P017A-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "238"
+    },
+    {
+      "MotorName": "77P017B-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "238"
+    },
+    {
+      "MotorName": "77P018A-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "166"
+    },
+    {
+      "MotorName": "77P018B-M01",
+      "Voltage": "380",
+      "Power": "90",
+      "Current": "166"
+    },
+    {
+      "MotorName": "77P020A-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "238"
+    },
+    {
+      "MotorName": "77P020B-M01",
+      "Voltage": "380",
+      "Power": "132",
+      "Current": "238"
+    },
+    {
+      "MotorName": "77P021-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "16.2"
+    },
+    {
+      "MotorName": "77P022A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "69"
+    },
+    {
+      "MotorName": "77P022B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "69"
+    },
+    {
+      "MotorName": "77P102A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "7.8"
+    },
+    {
+      "MotorName": "77P102B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "7.8"
+    },
+    {
+      "MotorName": "77P105A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "77P105B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "77P107-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "4.4"
+    },
+    {
+      "MotorName": "77P108A-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "77P108B-M01",
+      "Voltage": "380",
+      "Power": "5.5",
+      "Current": "11.4"
+    },
+    {
+      "MotorName": "77P111A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "27.9"
+    },
+    {
+      "MotorName": "77P111B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "27.9"
+    },
+    {
+      "MotorName": "77TN002A-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "58"
+    },
+    {
+      "MotorName": "77TN002B-M01",
+      "Voltage": "380",
+      "Power": "30",
+      "Current": "58"
+    },
+    {
+      "MotorName": "77TN005A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "77TN005B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "77TN006-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "77TN007A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "43.2"
+    },
+    {
+      "MotorName": "77TN007B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "43.2"
+    },
+    {
+      "MotorName": "77TN008-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "77TN011-M01",
+      "Voltage": "380",
+      "Power": "2.2",
+      "Current": "4.6"
+    },
+    {
+      "MotorName": "77TN014-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "29.3"
+    },
+    {
+      "MotorName": "77X001-P01A",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "77X001-P01B",
+      "Voltage": "380",
+      "Power": "0.25",
+      "Current": "0.84"
+    },
+    {
+      "MotorName": "78P001A-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "36.1"
+    },
+    {
+      "MotorName": "78P001B-M01",
+      "Voltage": "380",
+      "Power": "18.5",
+      "Current": "36.1"
+    },
+    {
+      "MotorName": "78P002A-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "78P002B-M01",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "70.2"
+    },
+    {
+      "MotorName": "78P003A-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "27.9"
+    },
+    {
+      "MotorName": "78P003B-M01",
+      "Voltage": "380",
+      "Power": "15",
+      "Current": "27.9"
+    },
+    {
+      "MotorName": "78P004A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "78P004B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "78P005A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.1"
+    },
+    {
+      "MotorName": "78P005B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.1"
+    },
+    {
+      "MotorName": "78P006A-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "78P006B-M01",
+      "Voltage": "380",
+      "Power": "4",
+      "Current": "8.5"
+    },
+    {
+      "MotorName": "78P007A-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "41.2"
+    },
+    {
+      "MotorName": "78P007B-M01",
+      "Voltage": "380",
+      "Power": "22",
+      "Current": "41.2"
+    },
+    {
+      "MotorName": "78P008A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "78P008B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "78P009A-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "78P009B-M01",
+      "Voltage": "380",
+      "Power": "11",
+      "Current": "20.6"
+    },
+    {
+      "MotorName": "78P010A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "78P010B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "14.2"
+    },
+    {
+      "MotorName": "78P012-M01",
+      "Voltage": "380",
+      "Power": "3",
+      "Current": "6.2"
+    },
+    {
+      "MotorName": "78X001-P01A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "16.2"
+    },
+    {
+      "MotorName": "78X001-P01B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "16.2"
+    },
+    {
+      "MotorName": "78X002-P01A-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "13.9"
+    },
+    {
+      "MotorName": "78X002-P01B-M01",
+      "Voltage": "380",
+      "Power": "7.5",
+      "Current": "13.9"
+    },
+    {
+      "MotorName": "78X002-P02A-M01",
+      "Voltage": "380",
+      "Power": "0.37",
+      "Current": "1"
+    },
+    {
+      "MotorName": "78X002-P03A-M01",
+      "Voltage": "380",
+      "Power": "1.1",
+      "Current": "2.4"
+    },
+    {
+      "MotorName": "78X002-Z03-M01",
+      "Voltage": "380",
+      "Power": "0.55",
+      "Current": "1.41"
+    },
+    {
+      "MotorName": "78K001B-M01",
+      "Voltage": "380",
+      "Power": "2.1",
+      "Current": "10.7"
+    },
+    {
+      "MotorName": "52P011A-M",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "56"
+    },
+    {
+      "MotorName": "52P011B-M",
+      "Voltage": "380",
+      "Power": "37",
+      "Current": "56"
+    }
+  ]
 }
