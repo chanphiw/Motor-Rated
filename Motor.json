@@ -1857,14 +1857,14 @@
         {
          "MotorName": "54P006A-M01",
          "Voltage": 380,
-         "Power": 45,
-         "Current": 82.9
+         "Power": 118,
+         "Current": 204.2
         },
         {
          "MotorName": "54P006B-M01",
          "Voltage": 380,
-         "Power": 45,
-         "Current": 82.9
+         "Power": 118,
+         "Current": 204.2
         },
         {
          "MotorName": "54P007A-M01",
