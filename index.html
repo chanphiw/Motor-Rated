@@ -2,11 +2,202 @@
 <html lang="en">
 
 <head>
-   <title>Motor Rated</title>
-   <meta name="description" content="Rated" />
-   <style></style>
+   <title>Motor Rated System</title>
+   <meta name="description" content="ระบบค้นหา Motor Rated" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
       integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+   <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+   <style>
+      body {
+         font-family: 'Prompt', sans-serif;
+         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+         min-height: 100vh;
+         padding: 20px 0;
+      }
+
+      .main-container {
+         background: rgba(255, 255, 255, 0.95);
+         border-radius: 20px;
+         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+         backdrop-filter: blur(10px);
+         margin: 20px auto;
+         padding: 30px;
+         max-width: 1200px;
+      }
+
+      .header-title {
+         background: linear-gradient(45deg, #2196F3, #21CBF3);
+         color: white;
+         padding: 20px;
+         border-radius: 15px;
+         text-align: center;
+         margin-bottom: 30px;
+         box-shadow: 0 8px 20px rgba(33, 150, 243, 0.3);
+      }
+
+      .header-title h2 {
+         margin: 0;
+         font-weight: 600;
+         font-size: 2rem;
+         text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+      }
+
+      .search-container {
+         background: #f8f9fa;
+         padding: 20px;
+         border-radius: 15px;
+         margin-bottom: 20px;
+         border: 1px solid #e9ecef;
+      }
+
+      .search-title {
+         color: #495057;
+         font-weight: 500;
+         margin-bottom: 15px;
+         display: flex;
+         align-items: center;
+         gap: 10px;
+      }
+
+      .form-control {
+         border-radius: 10px;
+         border: 2px solid #e9ecef;
+         padding: 12px 15px;
+         transition: all 0.3s ease;
+      }
+
+      .form-control:focus {
+         border-color: #2196F3;
+         box-shadow: 0 0 0 0.2rem rgba(33, 150, 243, 0.25);
+      }
+
+      .table-container {
+         background: white;
+         border-radius: 15px;
+         overflow: hidden;
+         box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+      }
+
+      .table {
+         margin: 0;
+      }
+
+      .table thead th {
+         background: linear-gradient(45deg, #00BCD4, #4CAF50);
+         color: white;
+         font-weight: 500;
+         border: none;
+         padding: 18px 15px;
+         text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+      }
+
+      .table tbody tr {
+         transition: all 0.3s ease;
+      }
+
+      .table tbody tr:hover {
+         background-color: #f1f8ff !important;
+         transform: translateY(-1px);
+         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .table tbody td {
+         padding: 15px;
+         vertical-align: middle;
+         border-bottom: 1px solid #f0f0f0;
+      }
+
+      .index-cell {
+         background: linear-gradient(45deg, #FF9800, #FFC107);
+         color: white;
+         font-weight: 600;
+         text-align: center;
+         border-radius: 8px;
+         margin: 2px;
+         padding: 8px !important;
+      }
+
+      .motor-name {
+         font-family: 'Courier New', monospace;
+         font-weight: 600;
+         color: #2c3e50;
+      }
+
+      .voltage-cell {
+         color: #e74c3c;
+         font-weight: 500;
+      }
+
+      .power-cell {
+         color: #27ae60;
+         font-weight: 500;
+      }
+
+      .current-cell {
+         color: #8e44ad;
+         font-weight: 500;
+      }
+
+      .date-display {
+         background: linear-gradient(45deg, #34495e, #2c3e50);
+         color: white;
+         padding: 10px 20px;
+         border-radius: 10px;
+         text-align: center;
+         margin-bottom: 20px;
+         font-weight: 500;
+      }
+
+      .stat-card {
+         background: white;
+         border-radius: 15px;
+         padding: 20px;
+         text-align: center;
+         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+         margin-bottom: 20px;
+         transition: transform 0.3s ease;
+      }
+
+      .stat-card:hover {
+         transform: translateY(-5px);
+      }
+
+      .stat-number {
+         font-size: 2rem;
+         font-weight: 700;
+         color: #2196F3;
+         margin: 0;
+      }
+
+      .stat-label {
+         color: #6c757d;
+         font-weight: 500;
+         margin: 0;
+      }
+
+      .loading-spinner {
+         display: none;
+         text-align: center;
+         padding: 20px;
+      }
+
+      @media (max-width: 768px) {
+         .main-container {
+            margin: 10px;
+            padding: 20px;
+         }
+
+         .header-title h2 {
+            font-size: 1.5rem;
+         }
+
+         .table-responsive {
+            border-radius: 15px;
+         }
+      }
+   </style>
    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
       integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
       crossorigin="anonymous"></script>
@@ -23,85 +214,239 @@
       angular
          .module("app", ["ui.bootstrap"])
          .controller("uhv", function ($scope, $http) {
+            $scope.loading = true
+            $scope.totalMotors = 0
+            $scope.filteredMotors = 0
+
             $http.get("Motor.json").then(
                function successCallback(response) {
-                  $scope.codes = response.data;
-                  console.log("Motor Rated : ");
-                  console.log(response.data);
+                  $scope.codes = response.data
+                  $scope.totalMotors = response.data.Motorlist.length
+                  $scope.filteredMotors = response.data.Motorlist.length
+                  $scope.loading = false
+                  console.log("Motor Rated : ")
+                  console.log(response.data)
                },
                function errorCallback(response) {
-                  console.log("Unable to perform get request");
+                  console.log("Unable to perform get request")
+                  $scope.loading = false
                }
-            );
+            )
+
+            // Watch for filter changes to update filtered count
+            $scope.$watch('s', function (newVal, oldVal) {
+               if (newVal !== oldVal && $scope.codes) {
+                  // This is a simplified count - in a real app you'd want to use the same filter logic
+                  $scope.updateFilteredCount()
+               }
+            }, true)
+
+            $scope.updateFilteredCount = function () {
+               if (!$scope.codes || !$scope.codes.Motorlist) return
+
+               var filtered = $scope.codes.Motorlist
+               if ($scope.s) {
+                  if ($scope.s.MotorName) {
+                     filtered = filtered.filter(function (item) {
+                        return item.MotorName.toLowerCase().includes($scope.s.MotorName.toLowerCase())
+                     })
+                  }
+                  if ($scope.s.Voltage) {
+                     filtered = filtered.filter(function (item) {
+                        return item.Voltage.toString().includes($scope.s.Voltage)
+                     })
+                  }
+                  if ($scope.s.Power) {
+                     filtered = filtered.filter(function (item) {
+                        return item.Power.toString().includes($scope.s.Power)
+                     })
+                  }
+                  if ($scope.s.Current) {
+                     filtered = filtered.filter(function (item) {
+                        return item.Current.toString().includes($scope.s.Current)
+                     })
+                  }
+               }
+               $scope.filteredMotors = filtered.length
+            }
          })
          .filter("myfilter", function () {
             return function (x) {
                var i,
                   c,
-                  txt = "";
+                  txt = ""
                for (i = 0; i < x.length; i++) {
-                  c = x[i];
+                  c = x[i]
 
-                  c = c.toUpperCase();
+                  c = c.toUpperCase()
 
-                  txt += c;
+                  txt += c
                }
-               return txt;
-            };
+               return txt
+            }
          });
    </script>
 </head>
 
-<body class="container">
-   <p id="demo"></p>
-   <script>
-      const d = new Date();
-      document.getElementById("demo").innerHTML = d;
-   </script>
+<body>
    <div ng-app="app" ng-controller="uhv">
-      <h2 class="text-center" style="background-color: rgb(47, 198, 239)">
-         ระบบค้นหา Motor Rated
-      </h2>
-      <div class="row">
-         <div class="col-lg-12">
-            <table class="table table-hover">
-               <thead>
-                  <tr class="text-center" style="background-color: rgb(100, 226, 207)">
-                     <th scope="col"></th>
-                     <th scope="col">Motor Name</th>
-                     <th scope="col">Voltage(V)</th>
-                     <th scope="col">Power(kW)</th>
-                     <th scope="col">Current(A)</th>
-                  </tr>
-               </thead>
-               <tbody class="text-center">
-                  <tr style="background-color: rgb(212, 220, 220)">
-                     <th scope="col"></th>
-                     <th scope="col">
-                        <input ng-model="s.MotorName" placeholder="ค้นตาม Motor Name" class="form-control input-md" />
-                     </th>
-                     <th scope="col">
-                        <input ng-model="s.Voltage" placeholder="ค้นตาม Voltage (V)" class="form-control input-md" />
-                     </th>
-                     <th scope="col">
-                        <input ng-model="s.Power" placeholder="ค้นตาม Power (kW)" class="form-control input-md" />
-                     </th>
-                     <th scope="col">
-                        <input ng-model="s.Current" placeholder="ค้นตาม Current (A)" class="form-control input-md" />
-                     </th>
-                  </tr>
-                  <tr ng-repeat=" r in  codes.Motorlist | filter:s |limitTo: 15">
-                     <td>{{ $index+1}}</td>
-                     <td>{{ r.MotorName}}</td>
-                     <td>{{ r.Voltage}}</td>
-                     <td>{{ r.Power}}</td>
-                     <td>{{ r.Current}}</td>
-                  </tr>
-               </tbody>
-            </table>
+      <div class="main-container">
+         <!-- Date Display -->
+         <div class="date-display">
+            <i class="fas fa-calendar-alt me-2"></i>
+            <span id="demo"></span>
+         </div>
+
+         <!-- Header -->
+         <div class="header-title">
+            <h2><i class="fas fa-cog me-3"></i>ระบบค้นหา Motor Rated</h2>
+         </div>
+
+         <!-- Statistics Cards -->
+         <div class="row mb-4">
+            <div class="col-md-6">
+               <div class="stat-card">
+                  <div class="stat-number">{{ totalMotors | number }}</div>
+                  <div class="stat-label">
+                     <i class="fas fa-database me-1"></i>Total Motors
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-6">
+               <div class="stat-card">
+                  <div class="stat-number">{{ filteredMotors | number }}</div>
+                  <div class="stat-label">
+                     <i class="fas fa-filter me-1"></i>Filtered Results
+                  </div>
+               </div>
+            </div>
+         </div>
+
+         <!-- Search Container -->
+         <div class="search-container">
+            <div class="search-title">
+               <i class="fas fa-search"></i>
+               <span>ค้นหาข้อมูล Motor</span>
+            </div>
+            <div class="row">
+               <div class="col-md-3 mb-3">
+                  <div class="input-group">
+                     <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-tag"></i></span>
+                     </div>
+                     <input ng-model="s.MotorName" ng-change="updateFilteredCount()" placeholder="ค้นตาม Motor Name"
+                        class="form-control" />
+                  </div>
+               </div>
+               <div class="col-md-3 mb-3">
+                  <div class="input-group">
+                     <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-bolt"></i></span>
+                     </div>
+                     <input ng-model="s.Voltage" ng-change="updateFilteredCount()" placeholder="ค้นตาม Voltage (V)"
+                        class="form-control" />
+                  </div>
+               </div>
+               <div class="col-md-3 mb-3">
+                  <div class="input-group">
+                     <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-flash"></i></span>
+                     </div>
+                     <input ng-model="s.Power" ng-change="updateFilteredCount()" placeholder="ค้นตาม Power (kW)"
+                        class="form-control" />
+                  </div>
+               </div>
+               <div class="col-md-3 mb-3">
+                  <div class="input-group">
+                     <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-tachometer-alt"></i></span>
+                     </div>
+                     <input ng-model="s.Current" ng-change="updateFilteredCount()" placeholder="ค้นตาม Current (A)"
+                        class="form-control" />
+                  </div>
+               </div>
+            </div>
+         </div>
+
+         <!-- Loading Spinner -->
+         <div class="loading-spinner" ng-show="loading">
+            <i class="fas fa-spinner fa-spin fa-2x text-primary"></i>
+            <div class="mt-2">กำลังโหลดข้อมูล...</div>
+         </div>
+
+         <!-- Table Container -->
+         <div class="table-container" ng-hide="loading">
+            <div class="table-responsive">
+               <table class="table table-hover mb-0">
+                  <thead>
+                     <tr class="text-center">
+                        <th scope="col" style="width: 80px;">
+                           <i class="fas fa-list-ol"></i>
+                        </th>
+                        <th scope="col">
+                           <i class="fas fa-tag me-2"></i>Motor Name
+                        </th>
+                        <th scope="col">
+                           <i class="fas fa-bolt me-2"></i>Voltage (V)
+                        </th>
+                        <th scope="col">
+                           <i class="fas fa-flash me-2"></i>Power (kW)
+                        </th>
+                        <th scope="col">
+                           <i class="fas fa-tachometer-alt me-2"></i>Current (A)
+                        </th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr ng-repeat="r in codes.Motorlist | filter:s | limitTo: 20" class="text-center">
+                        <td>
+                           <span class="index-cell">{{ $index + 1 }}</span>
+                        </td>
+                        <td class="motor-name text-left">{{ r.MotorName }}</td>
+                        <td class="voltage-cell">
+                           <strong>{{ r.Voltage }}</strong> V
+                        </td>
+                        <td class="power-cell">
+                           <strong>{{ r.Power }}</strong> kW
+                        </td>
+                        <td class="current-cell">
+                           <strong>{{ r.Current }}</strong> A
+                        </td>
+                     </tr>
+                     <tr ng-if="(codes.Motorlist | filter:s).length === 0 && !loading">
+                        <td colspan="5" class="text-center text-muted py-4">
+                           <i class="fas fa-search fa-2x mb-2 d-block"></i>
+                           ไม่พบข้อมูลที่ตรงกับการค้นหา
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+         </div>
+
+         <!-- Results Info -->
+         <div class="mt-3 text-center text-muted" ng-hide="loading">
+            <small>
+               <i class="fas fa-info-circle me-1"></i>
+               แสดงผลลัพธ์ {{ (codes.Motorlist | filter:s | limitTo: 20).length }} รายการจากทั้งหมด {{ (codes.Motorlist
+               | filter:s).length }} รายการ
+            </small>
          </div>
       </div>
    </div>
+
+   <script>
+      const d = new Date()
+      const options = {
+         weekday: 'long',
+         year: 'numeric',
+         month: 'long',
+         day: 'numeric',
+         hour: '2-digit',
+         minute: '2-digit'
+      }
+      document.getElementById("demo").innerHTML = d.toLocaleDateString('th-TH', options);
+   </script>
 </body>
 
 </html>
