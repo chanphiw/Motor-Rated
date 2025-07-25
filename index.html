@@ -398,7 +398,7 @@
                      </tr>
                   </thead>
                   <tbody>
-                     <tr ng-repeat="r in codes.Motorlist | filter:s | limitTo: 20" class="text-center">
+                     <tr ng-repeat="r in codes.Motorlist | filter:s | limitTo: 50" class="text-center">
                         <td>
                            <span class="index-cell">{{ $index + 1 }}</span>
                         </td>
@@ -428,7 +428,7 @@
          <div class="mt-3 text-center text-muted" ng-hide="loading">
             <small>
                <i class="fas fa-info-circle me-1"></i>
-               แสดงผลลัพธ์ {{ (codes.Motorlist | filter:s | limitTo: 20).length }} รายการจากทั้งหมด {{ (codes.Motorlist
+               แสดงผลลัพธ์ {{ (codes.Motorlist | filter:s | limitTo: 50).length }} รายการจากทั้งหมด {{ (codes.Motorlist
                | filter:s).length }} รายการ
             </small>
          </div>
